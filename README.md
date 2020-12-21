@@ -1,3 +1,0 @@
-# Final
-test
-github tutorial
